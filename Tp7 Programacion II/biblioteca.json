@@ -1,0 +1,8 @@
+{
+  "Nombre: ": "Biblioteca_Nacional",
+  "Libros guardados: ": [{
+    "escritor": "Escritor3",
+    "codigo": 3,
+    "nombre": "Libro3"
+  }]
+}

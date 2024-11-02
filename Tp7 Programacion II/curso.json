@@ -1,0 +1,24 @@
+{
+   "Codigo: ": 23,
+   "Nombre: ": "Sexto_Economia",
+   "Insciptos: ": [
+      {
+         "genero": "Masculino",
+         "edad": 20,
+         "nombre": "Federico",
+         "dni": "45825885"
+      },
+      {
+         "genero": "Masculino",
+         "edad": 15,
+         "nombre": "Matias",
+         "dni": "123456789"
+      },
+      {
+         "genero": "Femenino",
+         "edad": 21,
+         "nombre": "Martina",
+         "dni": "987654321"
+      }
+   ]
+}
