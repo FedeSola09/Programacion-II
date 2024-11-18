@@ -1,0 +1,6 @@
+[
+    "Model.Camion@72ac42b0Model.Camion{capacidadCarga=50, tarifa=500}",
+    "Model.Furgoneta@77f67bd0Model.Furgoneta{volumenCarga=35, tarifa=300}",
+    "Model.Bus@7d40b4f0Model.Bus{capacidadDePasajeros=60}",
+    "Model.Auto@7b6e57d3Model.Auto{listaDeAccesorios=[]}"
+]
